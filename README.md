@@ -56,7 +56,7 @@ BERT (Bidirectional Encoder Representations from Transformers) is a pre-trained 
 
 <img src="https://imgs.search.brave.com/F8m-nwp6EIG5vq--OmJLrCDpIkuX6tEQ_kyFKQjlUTs/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9ibG9n/LmdyaWRkeW5hbWlj/cy5jb20vY29udGVu/dC9pbWFnZXMvMjAy/MC8xMC9TbGljZS0x/OC5wbmc">
 
-For more detail about this read [Understanding QABERT](https://github.com/SRDdev/QA-BERT/blob/master/BERT_.pdf)
+For more detail about this read [Understanding QABERT](Understanding QABERT/readme.md)
 
 
 ## <img src="https://static.thenounproject.com/png/1703027-200.png" style="height:30px;"> Inference
