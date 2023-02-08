@@ -1,6 +1,6 @@
-# QA BERT 
+# Question Answering Language Model 
 
-QABERT is a Question Answering Model.This model is a lighter version of any of the question answering models out there.
+QABERT is a Question Answering Language Model.This model is a lighter version of any of the question answering models out there.
 
 | Feature          | Value                 |
 | ---------------- | --------------------- |
@@ -95,7 +95,7 @@ Please make sure to update tests as appropriate.
 
 ## <img src="https://static.thenounproject.com/png/5497984-200.png" style="height:30px;"> Citations
 ```
-@citation{ AnswerMind,
+@citation{ QABERT,
   author = {Shreyas Dixit},
   year = {2023},
   url = {https://huggingface.co/SRDdev/QABERT}
