@@ -1,4 +1,4 @@
-# Question Answering Language Model 
+# <img src="https://static.thenounproject.com/png/2397931-200.png" style="height:30px;"> AnswerMind
 
 QABERT is a Question Answering Language Model.This model is a lighter version of any of the question answering models out there.
 
@@ -70,9 +70,9 @@ model = AutoModelForMaskedLM.from_pretrained("SRDdev/")
 
 _context_
 ```text
-Extractive Question Answering is the task of extracting an answer from a text given a question. An example of a
-question answering dataset is the SQuAD dataset, which is entirely based on that task. If you would like to fine-tune
-a model on a SQuAD task, you may leverage the examples/pytorch/question-answering/run_squad.py script.
+Extractive Question Answering is the task of extracting an answer from a text given a question. 
+An example of a question answering dataset is the SQuAD dataset, which is entirely based on that task. 
+If you would like to fine-tune a model on a SQuAD task, you may leverage the examples/pytorch/question-answering/run_squad.py.
 ```
 
 
